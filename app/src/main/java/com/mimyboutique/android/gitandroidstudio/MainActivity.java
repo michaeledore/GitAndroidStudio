@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.i("MyTag", "message" );
+        Log.i("MyTag", "malawi donkey" );
+
     }
 }
